@@ -1,4 +1,5 @@
-import './clone-arr'
-import './balanced-bracket'
+// import './clone-arr'
+// import './balanced-bracket'
+import './palindrome'
 
 
