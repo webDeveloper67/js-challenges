@@ -1,5 +1,6 @@
 // import './clone-arr'
 // import './balanced-bracket'
-import './palindrome'
+// import './palindrome'
+import './flatten-distinct'
 
 

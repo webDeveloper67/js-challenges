@@ -6,5 +6,5 @@ const cloneArr = arr => {
 }
 
 // Test Data :
-console.log(cloneArr([1, 2, 4, 0]))
-console.log(cloneArr([1, 2, [4, 0]]))
+console.table(cloneArr([1, 2, 4, 0]))
+console.table(cloneArr([1, 2, [4, 0]]))

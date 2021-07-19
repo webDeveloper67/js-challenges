@@ -27,5 +27,5 @@ const balancedBracket = str => {
 }
 
 // Test Data :
-console.log(balancedBracket("[()]{}[{({})()]()}"))
-console.log(balancedBracket("[)]{}[{(()}"))
+console.table(balancedBracket("[()]{}[{({})()]()}"))
+console.table(balancedBracket("[)]{}[{(()}"))
