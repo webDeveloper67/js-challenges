@@ -3,6 +3,8 @@
 // import './palindrome'
 // import './flatten-distinct'
 // import './rot13'
-import './remove-dups'
-import './phone-num-format'
+// import './remove-dups'
+// import './phone-num-format'
+// import './sum-two-arr'
+import './find-dups'
 
