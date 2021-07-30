@@ -6,5 +6,7 @@
 // import './remove-dups'
 // import './phone-num-format'
 // import './sum-two-arr'
-import './find-dups'
-
+// import './find-dups'
+// import './index-indicator-sum'
+// import './longestCommonStr'
+import './truncateStr'
